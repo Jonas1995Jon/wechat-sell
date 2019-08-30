@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 123456
+    url: jdbc:mysql://localhost/sell?characterEncoding=utf-8&useSSL=false
+  jpa:
+    show-sql: true
+#logging:
+#  pattern:
+#    console: "%d - %msg%n"
+#  file: /home/jang/JiangJian/Logs/Java/sell.log
+#  level:
+#    com.jang.sell.LoggerTest: debug
