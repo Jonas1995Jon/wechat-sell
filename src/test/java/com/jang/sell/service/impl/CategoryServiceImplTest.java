@@ -1,4 +1,4 @@
-package com.jang.sell.service;
+package com.jang.sell.service.impl;
 
 import com.jang.sell.entity.ProductCategory;
 import com.jang.sell.service.impl.CategoryServiceImpl;
